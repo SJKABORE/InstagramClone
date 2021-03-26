@@ -6,6 +6,7 @@ Time spent: **15** hours spent in total
 
 ## User Stories (Part 2)
 Time spent: **5** hours
+
 The following **required** functionality is completed:
 
 - [x] User can view the last 20 posts submitted to "Instagram".
@@ -41,6 +42,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## User Stories (Part 1)
 Time spent: **10** hours
+
 The following **required** functionality is completed:
 
 - [x] User can sign up to create a new account using Parse authentication.
